@@ -1,0 +1,13 @@
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\bin\Debug\netcoreapp3.1\MyApp.exe
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\bin\Debug\netcoreapp3.1\MyApp.deps.json
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.json
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.dev.json
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\bin\Debug\netcoreapp3.1\MyApp.dll
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\bin\Debug\netcoreapp3.1\MyApp.pdb
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\obj\Debug\netcoreapp3.1\MyApp.csprojAssemblyReference.cache
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfoInputs.cache
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfo.cs
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CoreCompileInputs.cache
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\obj\Debug\netcoreapp3.1\MyApp.dll
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\obj\Debug\netcoreapp3.1\MyApp.pdb
+D:\YAGNIK\CPIN\Semester_2\OOP I\IOT1026\Repositories\MyApp\obj\Debug\netcoreapp3.1\MyApp.genruntimeconfig.cache
